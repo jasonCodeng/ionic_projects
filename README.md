@@ -1,3 +1,2 @@
-# ionic_projects
-learning the ionic framework
+Playground for learning the ionic framework
 
